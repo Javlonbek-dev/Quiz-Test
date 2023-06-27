@@ -8,8 +8,8 @@
         <li>You will have 60 sec to answer each question</li>
         <li>Refereshing the page will reset the Quiz</li>
     </ol>    <div class="name col-md-4 my-3">
-        <label for="">Enter your name:</label>
-        <input #name type="text" class="form-control">
+            <label for="name">Enter your name:</label>
+            <input id="name" name="name" type="text" class="form-control" [(ngModel)]="name">
     </div>
-    <button class="btn btn-primary btn-lg" routerLink="/question" (click)="startQuiz()">Start the Quiz!!</button>
+    <button class="btn btn-primary btn-lg" (click)="onSubmit(name)" routerLink="/question" (click)="startQuiz()">Start the Quiz!!</button>
 </div>
