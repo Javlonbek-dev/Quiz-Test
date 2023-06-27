@@ -1,0 +1,176 @@
+
+{
+    "questions": [
+    {
+    "questionText": "What does CSS stand for?",
+    "options": [
+    {
+    "text": "Cascading Style Sheets",
+    "correct": true
+    },
+    {
+    "text": "Creative Style Sheets"
+    },
+    {
+    "text": "Colorful Style Sheets"
+    },
+    {
+    "text": "Computer Style Sheets"
+    }
+    ],
+    "explanation": "CSS stands for Cascading Style Sheets."
+    },
+    {
+    "questionText": "Which CSS property is used to change the text color of an element?",
+    "options": [
+    {
+    "text": "color",
+    "correct": true
+    },
+    {
+    "text": "background-color"
+    },
+    {
+    "text": "text-color"
+    },
+    {
+    "text": "font-color"
+    }
+    ],
+    "explanation": "The 'color' property is used to change the text color of an element in CSS."
+    },
+    {
+    "questionText": "Which CSS property is used to add spacing between elements?",
+    "options": [
+    {
+    "text": "margin",
+    "correct": true
+    },
+    {
+    "text": "padding"
+    },
+    {
+    "text": "spacing"
+    },
+    {
+    "text": "border"
+    }
+    ],
+    "explanation": "The 'margin' property is used to add spacing between elements in CSS."
+    },
+    {
+    "questionText": "Which CSS property is used to make text bold?",
+    "options": [
+    {
+    "text": "font-weight",
+    "correct": true
+    },
+    {
+    "text": "font-style"
+    },
+    {
+    "text": "text-decoration"
+    },
+    {
+    "text": "font-variant"
+    }
+    ],
+    "explanation": "The 'font-weight' property is used to make text bold in CSS."
+    },
+    {
+    "questionText": "Which CSS property is used to add a background image to an element?",
+    "options": [
+    {
+    "text": "background-image",
+    "correct": true
+    },
+    {
+    "text": "background-color"
+    },
+    {
+    "text": "background-style"
+    },
+    {
+    "text": "background-source"
+    }
+    ],
+    "explanation": "The 'background-image' property is used to add a background image to an element in CSS."
+    },
+    {
+    "questionText": "Which CSS property is used to control the transparency of an element?",
+    "options": [
+    {
+    "text": "opacity",
+    "correct": true
+    },
+    {
+    "text": "visibility"
+    },
+    {
+    "text": "transparency"
+    },
+    {
+    "text": "background-opacity"
+    }
+    ],
+    "explanation": "The 'opacity' property is used to control the transparency of an element in CSS."
+    },
+    {
+    "questionText": "Which CSS property is used to align text horizontally within an element?",
+    "options": [
+    {
+    "text": "text-align",
+    "correct": true
+    },
+    {
+    "text": "text-style"
+    },
+    {
+    "text": "text-decoration"
+    },
+    {
+    "text": "text-transform"
+    }
+    ],
+    "explanation": "The 'text-align' property is used to align text horizontally within an element in CSS."
+    },
+    {
+    "questionText": "Which CSS property is used to control the size of the font?",
+    "options": [
+    {
+    "text": "font-size",
+    "correct": true
+    },
+    {
+    "text": "font-style"
+    },
+    {
+    "text": "font-family"
+    },
+    {
+    "text": "font-variant"
+    }
+    ],
+    "explanation": "The 'font-size' property is used to control the size of the font in CSS."
+    },
+    {
+    "questionText": "Which CSS property is used to add a border around an element?",
+    "options": [
+    {
+    "text": "border",
+    "correct": true
+    },
+    {
+    "text": "outline"
+    },
+    {
+    "text": "box-shadow"
+    },
+    {
+    "text": "border-style"
+    }
+    ],
+    "explanation": "The 'border' property is used to add a border around an element in CSS."
+    }
+    ]
+    }

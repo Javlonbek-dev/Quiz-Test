@@ -1,0 +1,28 @@
+.conainer{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    display: flex;
+}
+.box{
+    margin-top: 60px;
+    gap: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly; 
+    height: 80vh;
+    flex-wrap: wrap;
+    width: 100%;
+}
+.card{
+    display: flex;
+    border: 1px solid black;
+}
+.card:hover{
+    //box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
+   // box-shadow: 3px 3px red, -1em 0 0.4em olive;
+    box-shadow: rgba(240, 46, 170, 0.4) 5px 5px, rgba(240, 46, 170, 0.3) 10px 10px, rgba(240, 46, 170, 0.2) 15px 15px, rgba(240, 46, 170, 0.1) 20px 20px, rgba(240, 46, 170, 0.05) 25px 25px;
+}
+.card-img-top{
+    height: 300px;
+}

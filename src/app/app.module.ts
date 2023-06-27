@@ -10,6 +10,8 @@ import { HeaderComponent } from './header/header.component';
 import { HttpClient, HttpClientModule } from '@angular/common/http';
 import { ChangeBgDirective } from './change-bg.directive';
 import { GeneralComponent } from './general/general.component';
+import { HtmlquestionsComponent } from './htmlquestions/htmlquestions.component';
+import { CssquestionsComponent } from './cssquestions/cssquestions.component';
 
 @NgModule({
   declarations: [
@@ -19,6 +21,8 @@ import { GeneralComponent } from './general/general.component';
     HeaderComponent,
     ChangeBgDirective,
     GeneralComponent,
+    HtmlquestionsComponent,
+    CssquestionsComponent,
   ],
   imports: [
     BrowserModule,
