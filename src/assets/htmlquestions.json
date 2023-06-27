@@ -1,0 +1,176 @@
+
+{
+    "questions": [
+    {
+    "questionText": "What does HTML stand for?",
+    "options": [
+    {
+    "text": "Hyper Text Markup Language",
+    "correct": true
+    },
+    {
+    "text": "Home Tool Markup Language"
+    },
+    {
+    "text": "Hyperlinks and Text Markup Language"
+    },
+    {
+    "text": "Hyper Text Model Language"
+    }
+    ],
+    "explanation": "HTML stands for Hyper Text Markup Language."
+    },
+    {
+    "questionText": "Which HTML element is used to define a hyperlink?",
+    "options": [
+    {
+    "text": "<a>",
+    "correct": true
+    },
+    {
+    "text": "<p>"
+    },
+    {
+    "text": "<h1>"
+    },
+    {
+    "text": "<div>"
+    }
+    ],
+    "explanation": "The <a> element is used to define a hyperlink in HTML."
+    },
+    {
+    "questionText": "What is the correct HTML element for the largest heading?",
+    "options": [
+    {
+    "text": "<h1>",
+    "correct": true
+    },
+    {
+    "text": "<h2>"
+    },
+    {
+    "text": "<h3>"
+    },
+    {
+    "text": "<h4>"
+    }
+    ],
+    "explanation": "The <h1> element is used for the largest heading in HTML."
+    },
+    {
+    "questionText": "Which HTML element is used to display an unordered list?",
+    "options": [
+    {
+    "text": "<ul>",
+    "correct": true
+    },
+    {
+    "text": "<ol>"
+    },
+    {
+    "text": "<li>"
+    },
+    {
+    "text": "<dl>"
+    }
+    ],
+    "explanation": "The <ul> element is used to display an unordered list in HTML."
+    },
+    {
+    "questionText": "What is the correct HTML element for inserting a line break?",
+    "options": [
+    {
+    "text": "<br>",
+    "correct": true
+    },
+    {
+    "text": "<line>"
+    },
+    {
+    "text": "<break>"
+    },
+    {
+    "text": "<lb>"
+    }
+    ],
+    "explanation": "The <br> element is used to insert a line break in HTML."
+    },
+    {
+    "questionText": "Which attribute is used to specify the URL of an image in HTML?",
+    "options": [
+    {
+    "text": "src",
+    "correct": true
+    },
+    {
+    "text": "alt"
+    },
+    {
+    "text": "href"
+    },
+    {
+    "text": "img"
+    }
+    ],
+    "explanation": "The 'src' attribute is used to specify the URL of an image in HTML."
+    },
+    {
+    "questionText": "Which HTML element is used to define a table row?",
+    "options": [
+    {
+    "text": "<tr>",
+    "correct": true
+    },
+    {
+    "text": "<td>"
+    },
+    {
+    "text": "<th>"
+    },
+    {
+    "text": "<table>"
+    }
+    ],
+    "explanation": "The <tr> element is used to define a table row in HTML."
+    },
+    {
+    "questionText": "What is the correct HTML element for bold text?",
+    "options": [
+    {
+    "text": "<b>",
+    "correct": true
+    },
+    {
+    "text": "<strong>"
+    },
+    {
+    "text": "<em>"
+    },
+    {
+    "text": "<bold>"
+    }
+    ],
+    "explanation": "The <b> element is used for bold text in HTML."
+    },
+    {
+    "questionText": "Which HTML element is used to define a footer for a document or section?",
+    "options": [
+    {
+    "text": "<footer>",
+    "correct": true
+    },
+    {
+    "text": "<header>"
+    },
+    {
+    "text": "<section>"
+    },
+    {
+    "text": "<div>"
+    }
+    ],
+    "explanation": "The <footer> element is used to define a footer for a document or section in HTML."
+    }
+    ]
+    }
