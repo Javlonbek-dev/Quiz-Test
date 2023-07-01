@@ -5,6 +5,7 @@ import { GeneralComponent } from './general/general.component';
 import { HtmlquestionsComponent } from './htmlquestions/htmlquestions.component';
 import { JsquestionsComponent } from './jsquestions/jsquestions.component';
 import { QuestionComponent } from './question/question.component';
+import { TsquestionsComponent } from './tsquestions/tsquestions.component';
 import { WelcomeComponent } from './welcome/welcome.component';
 
 const routes: Routes = [
@@ -14,7 +15,8 @@ const routes: Routes = [
   {path:"question" ,component:QuestionComponent},
   {path:"html",component:HtmlquestionsComponent},
   {path:"css",component:CssquestionsComponent},
-  {path:"js",component:JsquestionsComponent}
+  {path:"js",component:JsquestionsComponent},
+  {path:"ts",component:TsquestionsComponent}
 ];
 
 @NgModule({
