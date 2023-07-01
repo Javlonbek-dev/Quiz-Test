@@ -12,6 +12,7 @@ import { ChangeBgDirective } from './change-bg.directive';
 import { GeneralComponent } from './general/general.component';
 import { HtmlquestionsComponent } from './htmlquestions/htmlquestions.component';
 import { CssquestionsComponent } from './cssquestions/cssquestions.component';
+import { JsquestionsComponent } from './jsquestions/jsquestions.component';
 
 @NgModule({
   declarations: [
@@ -23,6 +24,7 @@ import { CssquestionsComponent } from './cssquestions/cssquestions.component';
     GeneralComponent,
     HtmlquestionsComponent,
     CssquestionsComponent,
+    JsquestionsComponent,
   ],
   imports: [
     BrowserModule,

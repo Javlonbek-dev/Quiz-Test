@@ -1,0 +1,176 @@
+
+{
+    "questions": [
+    {
+    "questionText": "What is JavaScript?",
+    "options": [
+    {
+    "text": "A programming language",
+    "correct": true
+    },
+    {
+    "text": "A markup language"
+    },
+    {
+    "text": "A database management system"
+    },
+    {
+    "text": "A networking protocol"
+    }
+    ],
+    "explanation": "JavaScript is a programming language."
+    },
+    {
+    "questionText": "Which keyword is used to declare a variable in JavaScript?",
+    "options": [
+    {
+    "text": "var"
+    },
+    {
+    "text": "let"
+    },
+    {
+    "text": "const"
+    },
+    {
+    "text": "All of the above",
+    "correct": true
+    }
+    ],
+    "explanation": "In JavaScript, you can declare variables using the 'var', 'let', or 'const' keyword."
+    },
+    {
+    "questionText": "Which operator is used for strict equality comparison in JavaScript?",
+    "options": [
+    {
+    "text": "=="
+    },
+    {
+    "text": "!="
+    },
+    {
+    "text": "==="
+    },
+    {
+    "text": "!==",
+    "correct": true
+    }
+    ],
+    "explanation": "The '===' operator is used for strict equality comparison in JavaScript."
+    },
+    {
+    "questionText": "Which function is used to output data in the browser console?",
+    "options": [
+    {
+    "text": "log",
+    "correct": true
+    },
+    {
+    "text": "print"
+    },
+    {
+    "text": "display"
+    },
+    {
+    "text": "console"
+    }
+    ],
+    "explanation": "The 'log' function is used to output data in the browser console in JavaScript."
+    },
+    {
+    "questionText": "Which method is used to add an element at the end of an array in JavaScript?",
+    "options": [
+    {
+    "text": "push",
+    "correct": true
+    },
+    {
+    "text": "pop"
+    },
+    {
+    "text": "shift"
+    },
+    {
+    "text": "unshift"
+    }
+    ],
+    "explanation": "The 'push' method is used to add an element at the end of an array in JavaScript."
+    },
+    {
+    "questionText": "Which operator is used to concatenate strings in JavaScript?",
+    "options": [
+    {
+    "text": "+",
+    "correct": true
+    },
+    {
+    "text": "-"
+    },
+    {
+    "text": "*"
+    },
+    {
+    "text": "/"
+    }
+    ],
+    "explanation": "The '+' operator is used to concatenate strings in JavaScript."
+    },
+    {
+    "questionText": "Which JavaScript method is used to convert a string to an integer?",
+    "options": [
+    {
+    "text": "parseInt",
+    "correct": true
+    },
+    {
+    "text": "parseFloat"
+    },
+    {
+    "text": "toString"
+    },
+    {
+    "text": "toFixed"
+    }
+    ],
+    "explanation": "The 'parseInt' method is used to convert a string to an integer in JavaScript."
+    },
+    {
+    "questionText": "Which loop is used to iterate over the properties of an object in JavaScript?",
+    "options": [
+    {
+    "text": "for...in",
+    "correct": true
+    },
+    {
+    "text": "for...of"
+    },
+    {
+    "text": "while"
+    },
+    {
+    "text": "do...while"
+    }
+    ],
+    "explanation": "The 'for...in' loop is used to iterate over the properties of an object in JavaScript."
+    },
+    {
+    "questionText": "Which JavaScript method is used to remove an element from an array?",
+    "options": [
+    {
+    "text": "splice",
+    "correct": true
+    },
+    {
+    "text": "slice"
+    },
+    {
+    "text": "concat"
+    },
+    {
+    "text": "push"
+    }
+    ],
+    "explanation": "The 'splice' method is used to remove an element from an array in JavaScript."
+    }
+    ]
+    }
