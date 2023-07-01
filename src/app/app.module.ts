@@ -13,6 +13,7 @@ import { GeneralComponent } from './general/general.component';
 import { HtmlquestionsComponent } from './htmlquestions/htmlquestions.component';
 import { CssquestionsComponent } from './cssquestions/cssquestions.component';
 import { JsquestionsComponent } from './jsquestions/jsquestions.component';
+import { TsquestionsComponent } from './tsquestions/tsquestions.component';
 
 @NgModule({
   declarations: [
@@ -25,6 +26,7 @@ import { JsquestionsComponent } from './jsquestions/jsquestions.component';
     HtmlquestionsComponent,
     CssquestionsComponent,
     JsquestionsComponent,
+    TsquestionsComponent,
   ],
   imports: [
     BrowserModule,

@@ -1,0 +1,157 @@
+
+{
+    "questions": [
+    {
+    "questionText": "What is TypeScript?",
+    "options": [
+    {
+    "text": "A superset of JavaScript",
+    "correct": true
+    },
+    {
+    "text": "A separate programming language"
+    },
+    {
+    "text": "A markup language"
+    },
+    {
+    "text": "A styling language"
+    }
+    ],
+    "explanation": "TypeScript is a superset of JavaScript, meaning it extends the capabilities of JavaScript."
+    },
+    {
+    "questionText": "Which command is used to compile TypeScript code into JavaScript?",
+    "options": [
+    {
+    "text": "tsc",
+    "correct": true
+    },
+    {
+    "text": "ts-compile"
+    },
+    {
+    "text": "ts-code"
+    },
+    {
+    "text": "js-compile"
+    }
+    ],
+    "explanation": "The 'tsc' command is used to compile TypeScript code into JavaScript."
+    },
+    {
+    "questionText": "Which symbol is used to specify types in TypeScript?",
+    "options": [
+    {
+    "text": ":",
+    "correct": true
+    },
+    {
+    "text": "="
+    },
+    {
+    "text": "=="
+    },
+    {
+    "text": "=>"
+    }
+    ],
+    "explanation": "In TypeScript, the ':' symbol is used to specify types."
+    },
+    {
+    "questionText": "Which TypeScript feature allows you to define reusable types?",
+    "options": [
+    {
+    "text": "Interfaces",
+    "correct": true
+    },
+    {
+    "text": "Classes"
+    },
+    {
+    "text": "Enums"
+    },
+    {
+    "text": "Modules"
+    }
+    ],
+    "explanation": "Interfaces in TypeScript allow you to define reusable types."
+    },
+    {
+    "questionText": "Which TypeScript feature allows you to create union types?",
+    "options": [
+    {
+    "text": "Union types",
+    "correct": true
+    },
+    {
+    "text": "Intersection types"
+    },
+    {
+    "text": "Literal types"
+    },
+    {
+    "text": "Tuple types"
+    }
+    ],
+    "explanation": "Union types in TypeScript allow you to create a type that can hold values of multiple types."
+    },
+    {
+    "questionText": "Which TypeScript feature allows you to specify that a variable can be of multiple types?",
+    "options": [
+    {
+    "text": "Union types"
+    },
+    {
+    "text": "Intersection types"
+    },
+    {
+    "text": "Any type"
+    },
+    {
+    "text": "Unknown type",
+    "correct": true
+    }
+    ],
+    "explanation": "The 'unknown' type in TypeScript allows you to specify that a variable can be of multiple types."
+    },
+    {
+    "questionText": "Which TypeScript feature allows you to enforce a specific shape for an object?",
+    "options": [
+    {
+    "text": "Interfaces",
+    "correct": true
+    },
+    {
+    "text": "Classes"
+    },
+    {
+    "text": "Enums"
+    },
+    {
+    "text": "Modules"
+    }
+    ],
+    "explanation": "Interfaces in TypeScript allow you to enforce a specific shape for an object."
+    },
+    {
+    "questionText": "Which TypeScript feature allows you to define a set of named constants?",
+    "options": [
+    {
+    "text": "Enums",
+    "correct": true
+    },
+    {
+    "text": "Interfaces"
+    },
+    {
+    "text": "Classes"
+    },
+    {
+    "text": "Modules"
+    }
+    ],
+    "explanation": "Enums in TypeScript allow you to define a set of named constants."
+    }
+    ]
+    }
